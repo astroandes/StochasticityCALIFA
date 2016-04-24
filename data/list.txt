@@ -1,0 +1,11 @@
+$ cat > list.txt
+
+ftp://ftp.caha.es/CALIFA/dataproducts/DR2/Pipe3D/NGC2916.ELINES.cube.fits.gz
+
+ftp://ftp.caha.es/CALIFA/dataproducts/DR2/Pipe3D/NGC2916.SFH.cube.fits.gz
+
+ftp://ftp.caha.es/CALIFA/dataproducts/DR2/Pipe3D/NGC2916.SSP.cube.fits.gz
+
+ftp://ftp.caha.es/CALIFA/dataproducts/DR2/Pipe3D/flux_elines.NGC2916.cube.fits.gz
+
+ftp://ftp.caha.es/CALIFA/dataproducts/DR2/Pipe3D/indices.CS.NGC2916.cube.fits.gz
